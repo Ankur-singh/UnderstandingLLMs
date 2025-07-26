@@ -7,7 +7,7 @@ A hands-on collection of Jupyter notebooks exploring key concepts, architectures
 ## Notebooks
 
 ### 1. LLM from Scratch - Part 1
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ankur-singh/UnderstandingLLMs/blob/main/nbs/LLM_from_scratch_1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ankur-singh/UnderstandingLLMs/blob/main/nbs/LLM_from_Scratch_1.ipynb)
 
 - Build a basic LLM using PyTorch.
 - Covers data preprocessing, model architecture, training loop, and inference.
@@ -15,7 +15,7 @@ A hands-on collection of Jupyter notebooks exploring key concepts, architectures
 ---
 
 ### 2. LLM from Scratch - Part 2
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ankur-singh/UnderstandingLLMs/blob/main/nbs/LLM_from_scratch_2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ankur-singh/UnderstandingLLMs/blob/main/nbs/LLM_from_Scratch_2.ipynb)
 
 - Enhances the previous notebook with modern techniques:
     - RMSNorm
