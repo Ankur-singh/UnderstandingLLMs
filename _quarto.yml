@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://ankur-singh.github.io/UnderstandingLLMs/ # you must change this appropriately for RSS feeds to work properly
+  title: "Understanding LLMs"
+  navbar:
+    left:
+      - href: notebooks.qmd
+        text: Notebooks
+    right:
+      - icon: github
+        href: https://www.github.com/Ankur-singh
+      - icon: twitter
+        href: https://www.twitter.com/I_ankursingh
+format:
+  html:
+    theme:
+      light: [cosmo]
+    css: styles.css
+
+
+

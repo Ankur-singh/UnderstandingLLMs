@@ -1,0 +1,16 @@
+---
+title: "Notebooks"
+listing:
+  contents:
+    - "notebooks/*"
+  fields: [date, title, subtitle, description, categories, author, reading-time]
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
