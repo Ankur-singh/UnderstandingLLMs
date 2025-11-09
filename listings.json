@@ -1,0 +1,10 @@
+[
+  {
+    "listing": "/notebooks.html",
+    "items": [
+      "/notebooks/LLM_from_Scratch_2.html",
+      "/notebooks/LLM_from_Scratch_1.html",
+      "/notebooks/Rotary_Position_Embedding.html"
+    ]
+  }
+]
